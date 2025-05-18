@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimuhtashamjaved
 -     I’m interested in coding
-- 🌱 I’m currently learning data analytics with python libraries 
+- 🌱 I’m currently learning machine learning
 - 📫 Reach me through my social account
 
 <!---
